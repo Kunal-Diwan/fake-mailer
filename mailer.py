@@ -9,7 +9,7 @@ from time import sleep
 try:
     import requests
 except ImportError:
-    os.system('pip2 install requests')
+    os.system('pip3 install requests')
 
 try:
 	request = requests.get("https://www.google.com/search?q=tahmid+rayat", timeout=3)

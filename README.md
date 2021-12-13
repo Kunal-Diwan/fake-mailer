@@ -15,7 +15,7 @@
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git python3 -y && git clone https://github.com/Kunal-Diwan/fake-mailer && cd fake-mailer && python2 mailer.py
+apt update && apt install git python3 -y && git clone https://github.com/Kunal-Diwan/fake-mailer && cd fake-mailer && python3 mailer.py
 ```
 
 ## [+] Find Me on :
